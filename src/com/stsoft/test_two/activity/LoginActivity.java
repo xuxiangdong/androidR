@@ -25,7 +25,7 @@ import android.widget.Toast;
 
 public class LoginActivity extends Activity
 {
-    // 用户名
+    // 用户名(账号)account
     private ClearEditText account;
     
     // 密码
